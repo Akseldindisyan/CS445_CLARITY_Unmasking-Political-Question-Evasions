@@ -1,0 +1,9 @@
+*.txt*
+Fall25 - CS 445 - Project Description File.pdf
+
+# virtual environments
+clarity_tf/
+venv/
+
+# model outputs
+roberta_baseline/
