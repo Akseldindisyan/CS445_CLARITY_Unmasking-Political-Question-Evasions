@@ -5,6 +5,7 @@ data
 # virtual environments
 clarity_tf/
 .venv/
+.env
 
 # model outputs
 roberta_baseline/
