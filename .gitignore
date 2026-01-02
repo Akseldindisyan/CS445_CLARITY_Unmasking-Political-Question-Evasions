@@ -7,4 +7,5 @@ clarity_tf/
 .venv/
 
 # model outputs
-roberta_baseline/
+roberta_final/
+roberta_optuna/
