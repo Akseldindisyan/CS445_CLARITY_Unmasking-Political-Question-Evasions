@@ -10,3 +10,6 @@ clarity_tf/
 # model outputs
 roberta_final/
 roberta_optuna/
+
+# images
+.png
