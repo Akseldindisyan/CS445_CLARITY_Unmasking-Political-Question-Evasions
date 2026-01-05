@@ -14,3 +14,7 @@ roberta_grounding_numeric
 
 # images
 *.png*
+
+#prediction
+prediction
+prediction_model_1.zip
