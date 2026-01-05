@@ -11,3 +11,6 @@ clarity_tf/
 roberta_final/
 roberta_optuna/
 roberta_grounding_numeric
+
+# images
+.png
