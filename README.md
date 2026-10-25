@@ -3,6 +3,7 @@
 An end-to-end Natural Language Processing (NLP) and Transformer modeling pipeline designed for **SemEval-2026 Task 6 (CLARITY)**. This project tackles political question evasion detection by classifying question-answer pairs from political interviews into three distinct categories: **Clear Reply**, **Ambivalent**, and **Clear Non-Reply**.
 
 To solve this, we benchmarked two distinct approaches: classical machine learning models driven by extensive linguistic feature engineering, and end-to-end transformer architectures (RoBERTa and Llama 8B/70B) operating directly on raw text. Our top-performing models achieve up to a **0.74 Macro F1 score** on a highly imbalanced political discourse dataset.
+
 ---
 
 ## Dataset Overview
